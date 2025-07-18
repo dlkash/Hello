@@ -32,4 +32,3 @@ I'm a **Java Programmer**, also learning **HTML** and **CSS**.
 - **Discord Username:** `killswitch_1191212`  
 - **Discord Server:** [Join Here!](https://discord.gg/NagKCQdJjc)  
 - **GitHub:** [KillSwitch](https://github.com/YourUsername)
-
