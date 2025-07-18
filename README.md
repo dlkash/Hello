@@ -1,7 +1,7 @@
 # KillSwitch 🔥
 
 <p align="center">
-  <img src="./assets/killswitch_banner.png" width="600" />
+  <img src="./assets/killswitch_banner.png" width="400" />
 </p>
 
 <p align="center">
