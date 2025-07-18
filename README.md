@@ -39,4 +39,4 @@ I love coding Minecraft plugins, working on servers, and learning new tech every
 - **Discord Username:** `killswitch_1191212`  
 - **Discord Server:** [Join Here!](https://discord.gg/NagKCQdJjc)  
 - **GitHub:** [KillSwitch](https://github.com/YourUsername)  
-- **Website:** *Coming Soon!*
+- **Website:** [Visit My Website](https://voluble-caramel-4dbdbf.netlify.app/)
