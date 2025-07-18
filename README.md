@@ -1,8 +1,8 @@
+
 # KillSwitch 🔥
 
 <p align="center">
-  <img src="./assets/killswitch_banner.png" width="<img width="1536" height="1024" alt="killswitch_banner" src="https://github.com/user-attachments/assets/69f9d816-5dce-4490-b867-c1ecbf704abc" />
-600" />
+  <img src="./assets/killswitch_banner.png" width="600" />
 </p>
 
 <p align="center">
